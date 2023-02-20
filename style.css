@@ -1,0 +1,28 @@
+body {
+    background-image: url(images/degrader.jpg);
+    background-attachment: fixed;
+}
+
+* {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+
+h1 {
+    color: #11cd07;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 3em;
+    font-weight: 900;
+}
+
+h2 {
+    color: #1ae30f;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 2em;
+    font-weight: 700;
+}
+
+
+
