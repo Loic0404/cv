@@ -1,6 +1,10 @@
 body {
-    background-image: url(images/degrader.jpg);
-    background-attachment: fixed;
+    background: rgb(29,245,17);
+    background: linear-gradient(90deg, rgba(29,245,17,1) 0%, rgba(11,99,7,1) 0%, rgba(7,61,4,1) 0%, rgba(4,33,2,1) 94%);
+}
+
+nav ul li{
+    list-style: none;
 }
 
 * {
@@ -24,5 +28,46 @@ h2 {
     font-weight: 700;
 }
 
+h3 {
+    color: #1df511;
+    margin-left: 30px;
+}
+.exp_pro {
+    text-align: center;
+}
 
+.exp_pro ul li {
+    list-style: none;
+    margin: 30px;
+}
 
+.dipl_for {
+    text-align: center;
+}
+
+.dipl_for ul li {
+    list-style: none;
+    margin: 30px;
+}
+
+.comp ul li {
+    margin-bottom: 30px;
+
+}
+
+.hobbies ul li {
+    text-align: center;
+    list-style: none;
+    margin: 30px;
+}
+
+.exp_pro img {
+    width: 80px;
+    height: 60px;
+    margin-top: 30px;
+}
+
+.contact div img {
+    width: 80px;
+    height: 60px;
+}
